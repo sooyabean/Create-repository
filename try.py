@@ -558,15 +558,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
-# boleh guna tapi kena buat dia boleh store new customer data punya dulu. DONE
-# once dah boleh baru boleh usha how to store one with lots of items, etc. 
-# lepas dah siap ni weekend tengok pasal dynamo
-# kalau free or rajin tengok pasal acc autodesk and power bi 
-# oh yeee cer update pasal project buat boleh tengok through the yearrrrr
-
-# buat chapter 2 and correction chapter 1 !!!!!! DONE
-# terus buat chapter 3 mana yang siap dulu
-# minggu ni fokus on quotation + project !!!!!
-# weekend buat kerja kat luar (lalaport)
-# make sure kerja siap before date
